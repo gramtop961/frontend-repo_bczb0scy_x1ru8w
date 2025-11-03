@@ -20,7 +20,7 @@ export default function HeroSection() {
       {/* 3D Spline background */}
       <div className="absolute inset-0">
         <Spline
-          scene="https://prod.spline.design/4cHQr84zOGAHOehh/scene.splinecode"
+          scene="https://prod.spline.design/qQUip0dJPqrrPryE/scene.splinecode"
           style={{ width: '100%', height: '100%' }}
         />
       </div>
